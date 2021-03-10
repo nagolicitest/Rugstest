@@ -1,7 +1,7 @@
 {
   "name": "reactjs",
   "version": "0.1.0",
-  "homepage": "nagolicitest.github.io",
+  "homepage": "https://nagolicitest.github.io/Rugstest",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
@@ -16,11 +16,12 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "predeploy":"npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
