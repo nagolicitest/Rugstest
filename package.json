@@ -1,7 +1,7 @@
 {
   "name": "reactjs",
   "version": "0.1.0",
-  "homepage": "https://nagolicitest.github.io",
+  "homepage": "https://nagolicitest.github.io/Rugstest",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
