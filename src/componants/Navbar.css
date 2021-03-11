@@ -29,7 +29,7 @@ body{
   }
   
   .navbar-logo {
-    color: #fff;
+    color:#fff;
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
@@ -59,6 +59,8 @@ body{
   
   .nav-item {
     height: 80px;
+    margin-top: 3rem;
+    color: #fff;
   }
   
   .nav-links {
